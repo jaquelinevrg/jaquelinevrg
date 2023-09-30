@@ -1,7 +1,5 @@
 ### Olá! Eu sou a Jaqueline Vargas (:
 
-
-- 🔭 Hoje trabalho com Front-end 
 - 🌱 Estudando Data Science ⚛ 
 - 🎓 Formada em ADS (Analise e Desenvolvimento de Sistemas)
 - 📫 Contate-me no email: jaquelineliravargas@gmail.com 
